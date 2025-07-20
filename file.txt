@@ -4,3 +4,4 @@ Mohit Singh is ok bhai
 we cant do more changes here
 Let's build git from ubuntu
 github
+Now I have options to make sure that things are going opposite means from github to git
